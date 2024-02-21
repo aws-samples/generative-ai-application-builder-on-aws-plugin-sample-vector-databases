@@ -61,6 +61,9 @@ In the parameters,
 
 note: Once deployed, In the parameter store, you can toggle between Kendra and OpenSearch ("KnowledgeBaseType":"OpenSearch") for the parameter to test the differences between Kendra and Amazon OpenSearch. 
 
+## Testing
+Once deployed, you can get the UI url from the "Outputs" tab of the cloudformation stack. In the conversation interface, you can enter sagemaker related questions and receive responses. For example, "What is Sagemaker Model Monitor?"
+
 ## Cleanup
 
 - Delete the cloudformation stacks
