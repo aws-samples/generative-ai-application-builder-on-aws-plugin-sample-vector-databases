@@ -7,7 +7,7 @@ https://aws.amazon.com/solutions/implementations/generative-ai-application-build
 Have the aws cli installed and python installed.
 
 
-## Steps to add OpenSearch for Retrieval Augmented Generation with Gen ai APP builder.
+## Steps to add OpenSearch for Retrieval Augmented Generation with Generative AI App builder on AWS.
 
 **Step 1: Clone the repository.**
 
@@ -59,7 +59,7 @@ In the parameters,
 
 3. You can either create a new kendra index or provide an existing kendra index. 
 
-note: Once deployed, In the parameter store, you can toggle between Kendra and OpenSearch ("KnowledgeBaseType":"OpenSearch") for the parameter to test the differences between Kendra and OpenSearch. 
+note: Once deployed, In the parameter store, you can toggle between Kendra and OpenSearch ("KnowledgeBaseType":"OpenSearch") for the parameter to test the differences between Kendra and Amazon OpenSearch. 
 
 ## Cleanup
 
