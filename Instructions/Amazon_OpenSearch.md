@@ -7,7 +7,7 @@ https://aws.amazon.com/solutions/implementations/generative-ai-application-build
 Have the aws cli installed and python installed.
 
 
-## Steps to add OpenSearch for Retrieval Augmented Generation with Generative AI App builder on AWS.
+## Steps to integrate OpenSearch for Retrieval Augmented Generation with Generative AI App builder on AWS.
 
 **Step 1: Clone the repository.**
 
