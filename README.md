@@ -9,7 +9,7 @@ Note: This is not a production ready code base, but should rather be used for te
 Have the aws cli installed and python installed.
 
 
-## Steps to add a Knowledgebase for Retrieval Augmented Generation with Generative AI App builder on AWS.
+## Steps to integrate a Knowledgebase for Retrieval Augmented Generation with Generative AI App builder on AWS.
 
 The steps to ingest data into the knowledgebase and deploy the stack for the text use case is under Instructions folder.
 
