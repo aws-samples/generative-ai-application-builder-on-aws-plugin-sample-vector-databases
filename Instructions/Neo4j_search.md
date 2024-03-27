@@ -10,7 +10,7 @@ A free instance can be created for neo4j aura DB.
 https://neo4j.com/cloud/platform/aura-graph-database/?utm_medium=PaidSearch&utm_source=Google&utm_campaign=UCGenAIutm_content=AMS-Search-SEMBrand-UCGenAI-None-SEM-SEM-NonABM&utm_adgroup=genai-llm&utm_term=neo4j%20ai&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpaStf3cKwDB7CTKLjpuJRx80URq3WBweTCmU7-r2PsdshNi1o0Y8u0aAl2iEALw_wcB
 
 
-## Steps to add Neo4j for Retrieval Augmented Generation with Generative AI App builder on AWS.
+## Steps to integrate Neo4j for Retrieval Augmented Generation with Generative AI App builder on AWS.
 
 **Step 1: Clone the repository.**
 
