@@ -67,8 +67,8 @@ In the parameters,
 
 1. Give the name of the Neo4jLambdaBucket the name of the newly created s3 bucket in your AWS account from step 2.
 
-2. For ExistingOpenSearchHost and OpenSearchSecret enter the value of OpenSearchDomainEndpoint and OpenSearchSecret output values from the provision.yaml stack deployment.
-
+2. For ExistingNeo4jHost enter the Neo4j instance uri. 
+   
 3. You can either create a new kendra index or provide an existing kendra index. 
 
 note: Once deployed, In the parameter store, you can toggle between Kendra and Neo4j ("KnowledgeBaseType":"Neo4j") for the parameter to test the differences between Kendra and Neo4j. 
