@@ -19,7 +19,7 @@ The currently supported knowledge base are
 2)Amazon OpenSearch embeddings search
 3)Neo4j Search
 
-Choose the instructions for the knowledgebase that you would like to use.
+Choose the instructions for the knowledgebase that you would like to use from the Instructions folder.
 
 Note:Once deployed and testing is complete, do not forget to cleanup resources so that no cost is incurred after testing.
 
