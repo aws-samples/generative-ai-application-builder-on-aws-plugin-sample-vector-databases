@@ -1,5 +1,5 @@
 # generative-ai-application-builder-on-aws-plugin-sample-vector-databases
-This sample code explains how to add  a knowledgebase in addition to Amazon Kendra for the "generative ai application builder on aws" solution.
+This sample code explains how to add a Knowledgebase in addition to Amazon Kendra for the "Generative AI Application Builder on AWS" solution.
 https://aws.amazon.com/solutions/implementations/generative-ai-application-builder-on-aws/
 
 Note: This is not a production ready code base, but should rather be used for testing and proof of concepts.
