@@ -8,6 +8,9 @@ Note: This is not a production ready code base, but should rather be used for te
 
 Have the aws cli installed and python installed.
 
+**Architecture Diagram:**
+<img width="1174" alt="main-arch-diagram-v1" src="https://github.com/aws-samples/generative-ai-application-builder-on-aws-plugin-sample-vector-databases/assets/62153270/1c2f7f8b-907d-4974-a021-9b89311c9fab">
+
 
 ## Steps to integrate a Knowledgebase for Retrieval Augmented Generation with Generative AI App builder on AWS.
 
