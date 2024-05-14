@@ -5,6 +5,7 @@ https://aws.amazon.com/solutions/implementations/generative-ai-application-build
 **Pre-requisites:**
 
 Have the aws cli installed and python installed.
+
 **Architecture Diagram:**
 <img width="1174" alt="" src="https://github.com/aws-samples/generative-ai-application-builder-on-aws-plugin-sample-vector-databases/assets/Amazon-OpenSearch-GAAB.png">
 
