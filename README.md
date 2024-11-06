@@ -4,6 +4,8 @@ https://aws.amazon.com/solutions/implementations/generative-ai-application-build
 
 Note: This is not a production ready code base, but should rather be used for testing and proof of concepts.
 
+If you find this GitHub repository useful, please consider giving it a free star ⭐ to show your appreciation and support for the project.
+
 **Pre-requisites:**
 
 Have the aws cli installed and python installed.
